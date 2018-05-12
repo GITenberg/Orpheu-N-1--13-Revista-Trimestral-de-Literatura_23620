@@ -1,0 +1,127 @@
+_repo: Orpheu-N-1--13-Revista-Trimestral-de-Literatura_23620
+_version: 0.1.0
+alternative_title: "Orfeu Nº1\r\nRevista Trimestral de Literatura"
+contributor:
+  illustrator:
+    agent_name: Pacheco, José
+    alias: Pacheco, Jose
+    birthdate: 1885
+    deathdate: 1934
+    gutenberg_agent_id: '26231'
+    url: http://www.gutenberg.org/2009/agents/26231
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Carvalho, Ronald de
+    birthdate: &id004 1893
+    deathdate: &id002 1935
+    gutenberg_agent_id: '25947'
+    url: http://www.gutenberg.org/2009/agents/25947
+    wikipedia: http://pt.wikipedia.org/wiki/Ronald_de_Carvalho
+  - agent_name: Sá-Carneiro, Mário de
+    aliases:
+    - Sá Carneiro, Mário de
+    - Sá Carneiro, Mário
+    - Sa-Carneiro, Mario de
+    birthdate: 1890
+    deathdate: 1916
+    gutenberg_agent_id: '24897'
+    url: http://www.gutenberg.org/2009/agents/24897
+    wikipedia:
+    - http://en.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+    - http://pt.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+  - agent_name: Guisado, Alfredo Pedro de Meneses
+    birthdate: &id001 1891
+    deathdate: 1975
+    gutenberg_agent_id: '26228'
+    url: http://www.gutenberg.org/2009/agents/26228
+  - agent_name: Montalvor, Luís de
+    alias: Montalvor, Luis de
+    birthdate: *id001
+    deathdate: 1947
+    gutenberg_agent_id: '25946'
+    url: http://www.gutenberg.org/2009/agents/25946
+    wikipedia: http://pt.wikipedia.org/wiki/Luis_de_Montalvor
+  - agent_name: Campos, Alvaro de
+    aliases:
+    - Campos, Álvaro de
+    - De Campos, Alvaro
+    birthdate: &id003 1888
+    deathdate: *id002
+    gutenberg_agent_id: '26230'
+    url: http://www.gutenberg.org/2009/agents/26230
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/9005
+    - http://pt.wikipedia.org/wiki/%C3%81lvaro_de_Campos
+    - http://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos
+  - agent_name: Pessoa, Fernando
+    aliases:
+    - Pessoa, Fernando António Nogueira
+    - Seabra Pessôa, Fernando António Nogueira de
+    - Pessoa, Fernando Antonio Nogueira
+    - Pacheco, C.
+    - Reis, Ricardo
+    - Nogueira Pessoa, Fernando Antonio
+    birthdate: *id003
+    deathdate: *id002
+    gutenberg_agent_id: '9005'
+    url: http://www.gutenberg.org/2009/agents/9005
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/26230
+    - http://pt.wikipedia.org/wiki/Fernando_Pessoa
+    - http://en.wikipedia.org/wiki/Fernando_Pessoa
+  - agent_name: Cortes-Rodrigues, Armando César
+    alias: Cortes-Rodrigues, Armando Cesar
+    birthdate: *id001
+    deathdate: 1971
+    gutenberg_agent_id: '26229'
+    url: http://www.gutenberg.org/2009/agents/26229
+  - agent_name: Almada Negreiros, José de
+    aliases:
+    - Sobral de Almada Negreiros, José
+    - De Almada Negreiros, José
+    - Negreiros, José de Almada
+    - Negreiros, José Sobral de Almada
+    - Negreiros, Jose Sobral de Almada
+    birthdate: *id004
+    deathdate: 1970
+    gutenberg_agent_id: '25447'
+    url: http://www.gutenberg.org/2009/agents/25447
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jos%C3%A9_de_Almada_Negreiros
+    - http://pt.wikipedia.org/wiki/Almada_Negreiros
+  editor:
+    agent_name: Ferro, António Joaquim Tavares
+    alias: Ferro, Antonio Joaquim Tavares
+    birthdate: 1895
+    deathdate: 1956
+    gutenberg_agent_id: '26227'
+    url: http://www.gutenberg.org/2009/agents/26227
+description: ''
+edition_note: Ano I--1915 N.º1 Janeiro-Fevereiro-Março
+gutenberg_bookshelf: PT Periódicos
+gutenberg_issued: '2007-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23620'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nEditor: Antonio Ferro\r\nOficinas: Tipografia do Comércio--10,\
+  \ Rua da Oliveira, ao Carmo\r\n1915"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- Periodicals'
+- !lcsh 'Brazilian literature -- Periodicals'
+tableOfContents: "Luiz de Montalvôr -- Introducção\r\nMario de Sá\x81-Carneiro --\
+  \ para os \"Indicios de Oiro\" (poemas)\r\nRonald de Carvalho -- poemas\r\nFernando\
+  \ Pessoa -- O Marinheiro (drama estático)\r\nAlfredo Pedro Guisado -- Treze Sonetos\r\
+  \nJosé de Almada-Negreiros -- Frizos (prosas)\r\nCôrtes-Rodrigues -- poemas\r\n\
+  Alvaro de Campos -- Opiário e Ode Triunfal"
+title: "Orpheu Nº1\r\nRevista Trimestral de Literatura"
+url: http://www.gutenberg.org/ebooks/23620
